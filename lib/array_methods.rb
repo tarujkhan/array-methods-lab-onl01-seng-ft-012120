@@ -15,15 +15,15 @@ end
 
 def using_first(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-array.first(element)
+array_first = array.first
 end
 
 def using_last(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-array.last(element)
+array_last = array.last
 end
 
 def using_size(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-array.size(element)
+array_size = array.size
 end
