@@ -8,22 +8,22 @@ def using_sort(array)
 array.sort(array)
 end
 
-def using_reverse(element)
+def using_reverse(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.reverse(array)
 end
 
-def using_first(element)
+def using_first(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.first(array)
 end
 
-def using_last(element)
+def using_last(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.last(array)
 end
 
-def using_size(element)
+def using_size(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.size(array)
 end
