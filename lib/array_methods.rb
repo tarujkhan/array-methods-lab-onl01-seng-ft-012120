@@ -15,10 +15,10 @@ end
 array.first(array)
 end
 
-def using_last(element)
+#def using_last(element)
 array.last(array)
 end
 
-def using_size(element)
+#def using_size(element)
 array.size(array)
 end
