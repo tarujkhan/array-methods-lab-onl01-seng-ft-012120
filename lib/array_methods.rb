@@ -1,15 +1,15 @@
 #def using_include(array, element)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.include?(element)
-end
+#end
 
 #def using_sort(element)
 array.sort(array)
-end
+#end
 
 #def using_reverse(element)
 array.reverse(array)
-end
+#end
 
 #def using_first(element)
 array.first(array)
